@@ -1,1 +1,13 @@
-.pro.user
+*.pro.user
+*.pro.user.b778321
+*.cpp.autosave
+*.h.autosave
+release/
+debug/
+*.dll
+*.chat.Debug
+*.chat.Release
+*.Release
+*.Debug
+.qmake.stash
+
